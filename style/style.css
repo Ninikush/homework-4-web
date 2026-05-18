@@ -1,0 +1,21 @@
+.top_heder {
+  text-align: center;
+  background-color: antiquewhite;
+}
+.bcr_bb {
+  text-align: center;
+  background-color: antiquewhite;
+}
+.toy_fr {
+  background-color: fuchsia;
+  color: black;
+}
+.huj_ki {
+  background-color: fuchsia;
+}
+.my_hif {
+  height: 250px;
+  border-radius: 50%;
+  width: fit-content;
+  align-items: center;
+}

@@ -1,0 +1,7 @@
+<div class ="section"id="profile-section'>
+yes
+<div class ="section" id=posts-section">
+<h2>freinds list</h2>da <ul>
+yes
+yes 
+<li>
